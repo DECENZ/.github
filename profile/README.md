@@ -28,6 +28,7 @@ Un groupement d’entreprises françaises du numérique qui se font confiance po
 </div>
 
 Nos premiers communs : 
+- https://github.com/cnumr/best-practices-ai
 - https://www.climateqa.com/
 - https://monacvnumerique.fr/
 - https://www.davidson.fr/manifeste-pour-lecoconception-des-services-numeriques/
